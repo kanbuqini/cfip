@@ -5,6 +5,9 @@ https://github.com/worldlet/bestIP/
 
 https://addressesapi.090227.xyz/CloudFlareYes
 
+
+https://github.com/hebe061103/cfip
+
 合并以上
 
 
