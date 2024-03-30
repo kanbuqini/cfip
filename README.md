@@ -1,4 +1,7 @@
-https://raw.githubusercontent.com/54hyde/bestip/main/bestip.txt
+https://github.com/54hyde/bestip
+
+https://github.com/worldlet/bestIP/
+
 
 https://addressesapi.090227.xyz/CloudFlareYes
 
