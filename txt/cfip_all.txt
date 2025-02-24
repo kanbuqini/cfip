@@ -1,5 +1,0 @@
-https://raw.githubusercontent.com/kanbuqini/cfip/refs/heads/main/txt/cfip_HK.txt@proxy.hk.appler.nyc.mn
-https://raw.githubusercontent.com/kanbuqini/cfip/refs/heads/main/txt/cfip_SG.txt@proxy.sg.appler.nyc.mn
-https://raw.githubusercontent.com/kanbuqini/cfip/refs/heads/main/txt/cfip_US.txt@proxy.us.appler.nyc.mn
-https://raw.githubusercontent.com/kanbuqini/cfip/refs/heads/main/txt/cfip_JP.txt@proxy.jp.appler.nyc.mn
-https://raw.githubusercontent.com/kanbuqini/cfip/refs/heads/main/txt/cfip_GB.txt@proxy.gb.appler.nyc.mn
