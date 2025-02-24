@@ -1,2 +1,1 @@
-sg.appler.us.kg:443#SG_dns.sh
 194.53.53.7:443#SG
